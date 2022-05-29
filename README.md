@@ -65,14 +65,14 @@ plt.imshow(edges1)
 ## Output
 
 ### Input image and grayscale image
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Linking-using-Hough-Transform/blob/main/n1.png?raw=true)
 
 ### Canny Edge detector output
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Linking-using-Hough-Transform/blob/main/n2.png?raw=true)
 
 
 ### Display the result of Hough transform
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Linking-using-Hough-Transform/blob/main/n3.png?raw=true)
 
 
 ## Result:
